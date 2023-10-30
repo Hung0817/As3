@@ -2,7 +2,8 @@
 Assignment 03 Stater
 ├─ css
 │  ├─ font.css
-│  └─ style.css
+│  └─ laptop.css
+│  └─ mobile.css
 ├─ fonts
 │  ├─ OpenSans-Italic-webfont.eot
 │  ├─ OpenSans-Italic-webfont.svg
